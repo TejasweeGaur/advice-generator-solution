@@ -47,9 +47,6 @@ main {
     width: 80%;
     height: 60%;
   }
-
-  .attribution{
-    flex-wrap : wrap;
 }
 
 #divider {
@@ -124,6 +121,7 @@ main {
   justify-content: center;
   align-items: center;
   color: black;
+  flex-wrap:wrap;
 }
 .attribution a {
   text-decoration: none;
