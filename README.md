@@ -27,7 +27,7 @@ The main goals of this challenge were:
 
 - Create a responsive interface that works well on various screen sizes.
 - Implement additional accessability of screen readers by using aria attributes.
-- Dynamically Fetch Advices from the ![Advice Slip JSON API](https://api.adviceslip.com/) and showcase the advice and advice Id in appropriate positions.
+- Dynamically Fetch Advices from the [Advice Slip JSON API](https://api.adviceslip.com/) and showcase the advice and advice Id in appropriate positions.
 - Added some fun animations effects when advices are fetched.
 
 ### Screenshot
@@ -59,7 +59,7 @@ I approached this challenge by first analyzing the design and breaking it down i
 
 To view the solution locally, you can follow these steps:
 
-1. Clone the repository: `git clone https://github.com/TejasweeGaur/qr-code-component-solution.git`
+1. Clone the repository: `git clone https://github.com/TejasweeGaur/advice-generator-solution.git`
 2. Navigate to the project directory.
 3. Open the `index.html` file in your browser.
 
